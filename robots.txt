@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohkaelaus.fiercepunchstudios.com/sitemap.xml
